@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ZkTouchableLabel_Example' do
+  pod 'ZkTouchableLabel', :path => '../'
+
+  target 'ZkTouchableLabel_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
