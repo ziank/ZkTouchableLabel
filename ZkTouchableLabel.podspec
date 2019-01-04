@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'ZkTouchableLabel'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of ZkTouchableLabel.'
+  s.summary          = 'ZkTouchableLabel'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+ZkTouchableLabel是一个用于处理label不同字符点击相应的库。
                        DESC
 
   s.homepage         = 'https://github.com/ziank/ZkTouchableLabel'
@@ -30,7 +30,7 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'ZkTouchableLabel/Classes/**/*'
+  s.source_files = 'ZkTouchableLabel/Classes/*'
   
   # s.resource_bundles = {
   #   'ZkTouchableLabel' => ['ZkTouchableLabel/Assets/*.png']
