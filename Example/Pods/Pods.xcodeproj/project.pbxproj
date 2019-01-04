@@ -72,8 +72,8 @@
 		CB3D66D446992E6F6065ED363C40F925 /* ZkTouchableLabel-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "ZkTouchableLabel-umbrella.h"; sourceTree = "<group>"; };
 		CE8B9CEF2B11E0CB4767129F48152162 /* Pods-ZkTouchableLabel_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ZkTouchableLabel_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		D55674758B3055B8FF45B9427D7E5C6E /* Pods_ZkTouchableLabel_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ZkTouchableLabel_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		E681367821DEF23F00E604C6 /* ZkTextHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZkTextHelper.swift; sourceTree = "<group>"; };
-		E681367A21DEF25100E604C6 /* UILabel+ZkLabelCategory.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UILabel+ZkLabelCategory.swift"; sourceTree = "<group>"; };
+		E681367821DEF23F00E604C6 /* ZkTextHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = ZkTextHelper.swift; path = ZkTouchableLabel/Classes/ZkTextHelper.swift; sourceTree = "<group>"; };
+		E681367A21DEF25100E604C6 /* UILabel+ZkLabelCategory.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = "UILabel+ZkLabelCategory.swift"; path = "ZkTouchableLabel/Classes/UILabel+ZkLabelCategory.swift"; sourceTree = "<group>"; };
 		EEEF45833A75361CCB1CC2BFDCED364C /* Pods-ZkTouchableLabel_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-ZkTouchableLabel_Example-umbrella.h"; sourceTree = "<group>"; };
 		F52F5D38B080732F89A61904DB378758 /* Pods-ZkTouchableLabel_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ZkTouchableLabel_Example.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
