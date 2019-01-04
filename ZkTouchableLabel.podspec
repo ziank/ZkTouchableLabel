@@ -24,7 +24,7 @@ TODO: Add long description of the pod here.
   s.homepage         = 'https://github.com/ziank/ZkTouchableLabel'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'ziank' => 'zhaixq@rd.netease.com' }
+  s.author           = { 'ziank' => 'haixianqi0111@163.com' }
   s.source           = { :git => 'https://github.com/ziank/ZkTouchableLabel.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 

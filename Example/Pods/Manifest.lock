@@ -1,0 +1,16 @@
+PODS:
+  - ZkTouchableLabel (0.1.0)
+
+DEPENDENCIES:
+  - ZkTouchableLabel (from `../`)
+
+EXTERNAL SOURCES:
+  ZkTouchableLabel:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZkTouchableLabel: 1d98338e4f2ea7ac732bd9729b6202aad6b5f478
+
+PODFILE CHECKSUM: 9f939b5f095259a314373516aa82146aec980ad1
+
+COCOAPODS: 1.5.3

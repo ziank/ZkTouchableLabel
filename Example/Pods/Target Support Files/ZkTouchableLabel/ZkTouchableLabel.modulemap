@@ -1,0 +1,6 @@
+framework module ZkTouchableLabel {
+  umbrella header "ZkTouchableLabel-umbrella.h"
+
+  export *
+  module * { export * }
+}
