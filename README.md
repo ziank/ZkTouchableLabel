@@ -22,7 +22,7 @@ pod 'ZkTouchableLabel'
 
 ## Author
 
-ziank, haixianqi0111@163.com
+ziank, zhaixianqi0111@163.com
 
 ## License
 
